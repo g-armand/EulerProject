@@ -315,7 +315,7 @@ def exercice10(): #NOT WORKING WELL
 
     return total
 
-print(exercice10())
+
 #ex11
 """In the 20×20 grid below, four numbers along a diagonal line have been marked in red.
 
