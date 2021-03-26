@@ -299,7 +299,7 @@ def exercice9(): #runtime = 30s
 Find the sum of all the primes below two million.
 """
 
-def exercice10(): #NOT WORKING WELL
+def exercice10(): #running time = 14305s !!!! (4h...)
     total = 0
     prime = 0
     while prime < 2000000:
